@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adam Liu&#39;s Blog.</title>
+    <link>/</link>
+    <description>I create software &amp; videos, and I try my best to share positivity through everything I create. config.toml</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>adamhleo@gmail.com (Adam Liu)</managingEditor>
+    <webMaster>adamhleo@gmail.com (Adam Liu)</webMaster>
+    <lastBuildDate>Wed, 02 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Adam Liu</title>
+      <link>/musings/</link>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
+      <author> Adam Liu</author>
+      <guid>/musings/</guid>
+      <description>I write things &amp;amp; make videos on whatever I&#39;m curious about, whatever I think about, and you can also find them here as well.</description>
+    </item>
+    
+    <item>
+      <title>Adam Liu</title>
+      <link>/vitae/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author> Adam Liu</author>
+      <guid>/vitae/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
